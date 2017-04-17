@@ -1,2 +1,5 @@
 Feature-2 tests a branch commit message.
 
+This is a second commit as feature work continues; this commit does not
+have a valid feature tag for the changelog tool.
+
